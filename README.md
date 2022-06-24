@@ -31,3 +31,14 @@
 def sayHello():
     return "Hello"
 ```
+
+**this is Bold text**
+__this is Bold text__
+
+*this is italic text*
+_this is italic text_
+
+
+```python
+print("Hello World")
+```
