@@ -13,6 +13,7 @@
     + E
     + Z
     + A
+
 + Milad 
 + Mohsen
 + Sara
@@ -25,7 +26,7 @@
     2. H
     2. Ra
 
-[this link](https://google.com 'google')
+### [Google](https://google.com 'google')
 
 ```python
 def sayHello():
@@ -51,13 +52,14 @@ and you can change this file.
 > this is a backquetes
 >
 > this is new line
->> if this is not good delete.
+>
+> if this is not good delete.
 
 
 1. Name
 2. Family
-    1.Ali
-    2.Reza
+    1. Ali
+    2. Reza
 
 
 1. Ali
@@ -70,3 +72,4 @@ and you can change this file.
 + Ali
 + Amir
 + Alireza
+
