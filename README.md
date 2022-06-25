@@ -25,7 +25,7 @@
     2. H
     2. Ra
 
-[this link](https://google.com, 'google')
+[this link](https://google.com 'google')
 
 ```python
 def sayHello():
